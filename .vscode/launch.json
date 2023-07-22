@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Chess-Challenge/bin/Debug/net6.0/Chess-Challenge.exe",
+      "args": [],
+      "cwd": "${workspaceFolder}/Chess-Challenge",
+      "console": "internalConsole",
+      "stopAtEntry": false,
+      "internalConsoleOptions": "openOnSessionStart",
+    }
+  ]
+}
